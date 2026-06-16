@@ -21,13 +21,13 @@ Aplikasi akademik Android sederhana yang menampilkan menu mahasiswa dengan Recyc
 ## Screenshots
 
 ### Halaman Utama
-![Halaman Utama](screenshots/home.jpeg)
+<img src="screenshots/home.jpeg" width="300">
 
 ### Mode List
-![Mode List](screenshots/list.jpeg)
+<img src="screenshots/list.jpeg" width="300">
 
 ### Mode Grid
-![Mode Grid](screenshots/grid.jpeg)
+<img src="screenshots/grid.jpeg" width="300">
 
 ### Mode Card
-![Mode Card](screenshots/card.jpeg)
+<img src="screenshots/card.jpeg" width="300">
