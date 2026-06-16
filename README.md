@@ -1,11 +1,13 @@
 # AkademikApp
 
-Aplikasi akademik Android sederhana yang menampilkan menu mahasiswa dengan RecyclerView.
+Aplikasi akademik Android sederhana yang menampilkan menu mahasiswa dengan RecyclerView dan manajemen data menggunakan SQLite.
 
 ## Fitur
 - RecyclerView mode List
 - RecyclerView mode Grid
 - RecyclerView mode Card
+- CRUD Data Mahasiswa dengan SQLite
+- Dashboard Admin
 
 ## Teknologi
 - Kotlin
@@ -13,10 +15,12 @@ Aplikasi akademik Android sederhana yang menampilkan menu mahasiswa dengan Recyc
 - RecyclerView
 - Material Design
 - ViewBinding
+- SQLite (Database Lokal)
 
 ## Pertemuan
 - Pertemuan 7 : RecyclerView Mode List
 - Pertemuan 9 : RecyclerView Mode Grid dan Card
+- Pertemuan 10 & 11 : Koneksi Database SQLite
 
 ## Screenshots
 
@@ -31,3 +35,12 @@ Aplikasi akademik Android sederhana yang menampilkan menu mahasiswa dengan Recyc
 
 ### Mode Card
 <img src="screenshots/card.jpeg" width="300">
+
+### Dashboard Admin
+<img src="screenshots/admin.jpeg" width="300">
+
+### Data Mahasiswa
+<img src="screenshots/data_mahasiswa.jpeg" width="300">
+
+### Tambah Mahasiswa
+<img src="screenshots/tambah_mahasiswa.jpeg" width="300">
