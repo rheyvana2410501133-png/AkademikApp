@@ -27,7 +27,7 @@ Aplikasi akademik Android sederhana yang menampilkan menu mahasiswa dengan Recyc
 ![Mode List](screenshots/list.jpeg)
 
 ### Mode Grid
-![Mode Grid](screenshots/grid![img.png](img.png).jpeg)
+![Mode Grid](screenshots/grid.jpeg)
 
 ### Mode Card
 ![Mode Card](screenshots/card.jpeg)
